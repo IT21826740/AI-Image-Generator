@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project is an AI-powered image generator and community showcase platform. Users can generate images based on text prompts, share their generated images, and explore popular posts from the community. The frontend is built with React and styled-components, and it interacts with a backend API to generate images using OpenAI and manage posts.
+This project is an AI-powered image generator and community showcase platform. Users can generate images based on text prompts using OpenAI's DALL-E model, share their generated images, and explore popular posts from the community. The images are stored using Cloudinary. The frontend is built with React and styled-components, and it interacts with a backend API to generate images and manage posts.
 
 ## Features
 
